@@ -1,0 +1,25 @@
+{
+  "name": "burtball",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": ""
+  },
+  "dependencies": {
+    "assert": "^1.4.1",
+    "body-parser": "^1.15.2",
+    "cache-manager": "^2.1.2",
+    "cluster": "^0.7.7",
+    "compression": "^1.6.2",
+    "config": "^1.21.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "http-status": "^0.2.3",
+    "log4js": "^0.6.38",
+    "socket.io": "latest"
+  },
+  "private": true
+}
